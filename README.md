@@ -1,1 +1,1 @@
-# http_server_c
+# Simple HTTP Web Server in C
